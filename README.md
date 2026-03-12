@@ -1,5 +1,12 @@
 # BlackRoad Priority Stack
 
+[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED.svg)](https://docker.com)
+[![Headscale](https://img.shields.io/badge/Headscale-VPN-0066FF.svg)](https://headscale.net)
+[![Keycloak](https://img.shields.io/badge/Keycloak-IAM-4D4D4D.svg)](https://keycloak.org)
+[![vLLM](https://img.shields.io/badge/vLLM-serving-FF6B2B.svg)](https://vllm.ai)
+
+
+
 Complete deployment of the four foundational BlackRoad OS services:
 
 1. **Headscale** - Self-hosted mesh VPN (Tailscale alternative)
